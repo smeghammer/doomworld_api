@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+div.tree-toggler{
+/* 	width: 15px; */
+/* 	height: 15px; */
+	display: inline-block;
+	cursor: pointer;
+	margin-right: 3px;
+}
+div.spinner_wrapper{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+}
+div.spinner_wrapper > img{
+	width: 15px;
+	height: 15px;
+}
+#doom_container li{
+	list-style-type: none;
+}
+div.closed{
+/* 	background-image:url('/images/tree_closed.png'); */
+/* 	background-color: red; */
+}
+
+ul.hidden{
+	display: none;
+}
+i.fa-folder-open{
+	color: blue;
+}

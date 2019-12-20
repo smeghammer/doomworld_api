@@ -2,6 +2,8 @@
 
 A sample Javascript/REST based web application with PHP proxy that uses the Doomworld public API. The client-side code uses incremental AJAX REST calls to retrieve and build branches of the IDGAMES mirror.
 
+See https://www.doomworld.com/idgames/api/
+
 ## Summary
  - a (very) simple PHP proxy
  - single page display, driven by JQuery/JS/CSS
